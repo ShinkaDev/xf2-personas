@@ -1,13 +1,13 @@
 {
     "legacy_addon_id": "",
     "title": "[Shinka] Personas",
-    "description": "",
+    "description": "Lightweight sub-accounts with customizable user fields and avatars.",
     "version_id": 1000031,
     "version_string": "1.0.0 Beta 1",
-    "dev": "",
-    "dev_url": "",
-    "faq_url": "",
-    "support_url": "",
+    "dev": "K. Robinson",
+    "dev_url": "https://github.com/kalynrobinson/xf2_personas",
+    "faq_url": "https://github.com/kalynrobinson/xf2_personas",
+    "support_url": "https://github.com/kalynrobinson/xf2_personas/issues",
     "extra_urls": [],
     "require": [],
     "icon": ""
